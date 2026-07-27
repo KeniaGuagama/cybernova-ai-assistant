@@ -1,3 +1,4 @@
+
 # 🛡️ CyberNova AI Assistant
 
 CyberNova AI Assistant es un asistente inteligente desarrollado con Python, Streamlit y tecnologías RAG (Retrieval-Augmented Generation) para responder preguntas sobre ciberseguridad utilizando documentos corporativos.
@@ -142,4 +143,3 @@ Agregar aquí la URL pública del despliegue.
 
 Ingeniera Informática
 
-Universidad Autónoma Juan Misael Saracho
