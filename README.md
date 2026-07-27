@@ -1,7 +1,8 @@
 # 🛡️ CyberNova AI Assistant
 
-![Logo CyberNova](assets/cybernova_logo.png)
-
+<div align="center">
+  <img src="assets/cybernova_logo.png" width="180">
+</div>
 ## Asistente inteligente de ciberseguridad basado en RAG
 
 CyberNova AI Assistant es un asistente inteligente desarrollado con **Python, Streamlit y arquitectura RAG (Retrieval-Augmented Generation)**, diseñado para responder consultas relacionadas con ciberseguridad utilizando una base de conocimiento empresarial.
@@ -32,35 +33,34 @@ Utiliza Ollama con el modelo Qwen 2.5 1.5B para generación de respuestas.
 
 ---
 
-# 🏗️ Arquitectura del sistema
+## 🏗️ Arquitectura del sistema
 
+```text
 Usuario
-│
-▼
+   │
+   ▼
 Interfaz Streamlit
-│
-▼
+   │
+   ▼
 Sistema RAG
-│
-├── Sentence Transformers
-│ │
-│ ▼
-│ Embeddings
-│
-├── ChromaDB
-│ │
-│ ▼
-│ Recuperación documental
-│
-▼
+   │
+   ├── Sentence Transformers
+   │        │
+   │        ▼
+   │    Embeddings
+   │
+   ├── ChromaDB
+   │        │
+   │        ▼
+   │    Recuperación documental
+   │
+   ▼
 Modelo LLM
 (Ollama + Qwen 2.5 1.5B)
-│
-▼
+   │
+   ▼
 Respuesta contextualizada
-
-
----
+```
 
 # 🛠️ Tecnologías utilizadas
 
@@ -79,29 +79,28 @@ Respuesta contextualizada
 
 # 📂 Estructura del proyecto
 
+```text
 cybernova-ai-assistant/
 │
 ├── assets/
-│ └── cybernova_logo.png
+│   └── cybernova_logo.png
 │
 ├── documents/
-│ ├── gestion_incidentes.md
-│ ├── politica_seguridad.md
-│ └── faq_seguridad.csv
+│   ├── gestion_incidentes.md
+│   ├── politica_seguridad.md
+│   └── faq_seguridad.csv
 │
 ├── src/
-│ ├── app.py
-│ ├── chatbot.py
-│ └── load_documents.py
+│   ├── app.py
+│   ├── chatbot.py
+│   └── load_documents.py
 │
 ├── vectorstore/
 │
 ├── requirements.txt
 │
 └── README.md
-
-
----
+```
 
 # ⚙️ Instalación y ejecución
 
@@ -156,11 +155,10 @@ Estos documentos permiten responder consultas relacionadas con:
 
 Interfaz del asistente.
 
-![Interfaz del asistente](assets/Captura%201.png)
+![Respuesta CyberNova](assets/captura_respuesta_1.png)
+
 
 Respuestas generadas por el sistema.
-
-![Respuesta CyberNova](assets/captura_respuesta_1.png)
 
 ![Respuesta CyberNova](assets/captura_respuesta_2.png)
 
