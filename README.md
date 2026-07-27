@@ -1,6 +1,6 @@
 # 🛡️ CyberNova AI Assistant
 
-(assets/cybernova_logo.png)
+![Logo CyberNova](assets/cybernova_logo.png)
 
 ## Asistente inteligente de ciberseguridad basado en RAG
 
@@ -154,15 +154,19 @@ Estos documentos permiten responder consultas relacionadas con:
 
 📸 Evidencias
 
-Agregar capturas de pantalla mostrando:
-
 Interfaz del asistente.
-(assets/Captura 1.png)
+
+![Interfaz del asistente](assets/Captura%201.png)
 
 Respuestas generadas por el sistema.
-(assets/Captura 2.png)
-(assets/Captura 3.png)
-(assets/Captura 4.png)
+
+![Respuesta CyberNova](assets/captura_respuesta_1.png)
+
+![Respuesta CyberNova](assets/captura_respuesta_2.png)
+
+![Respuesta CyberNova](assets/captura_respuesta_3.png)
+
+![Respuesta CyberNova](assets/captura_respuesta_4.png)
 
 
 👩‍💻 Autora
