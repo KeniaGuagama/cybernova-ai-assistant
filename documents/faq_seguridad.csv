@@ -1,6 +1,17 @@
-Pregunta,;Respuesta
-?C?mo reporto phishing?,;Debes enviar el correo sospechoso al equipo de seguridad.
-?Puedo compartir mi contrase?a?,;No. Las contrase?as son personales e intransferibles.
-?Cu?ntos caracteres debe tener mi contrase?a?,;La contrase?a debe tener m?nimo 12 caracteres.
-?Qu? hago si pierdo mi laptop?,;Debes reportarlo inmediatamente al ?rea de seguridad.
-?Puedo instalar cualquier programa?,;Solo puedes instalar software autorizado por TI.
+"Pregunta;Respuesta"
+"?C?mo reporto phishing?;Debes enviar el correo sospechoso al equipo de seguridad."
+"?Puedo compartir mi contrase?a?;No. Las contrase?as son personales e intransferibles."
+"?Cu?nto tiempo tengo para reportar un incidente de seguridad?;Debes comunicarte dentro de las primeras 2 horas despu?s de ser detectado."
+"?Qu? hago si pierdo mi laptop corporativa?;Debes informar inmediatamente al ?rea de TI y Seguridad."
+"?Qu? es la ciberseguridad?;La ciberseguridad protege sistemas, redes y datos frente a amenazas digitales."
+"?Qu? es phishing?;Es un intento de enga?o para robar informaci?n mediante correos o sitios falsos."
+"?Qu? es ransomware?;Es un malware que cifra archivos y solicita un pago para recuperarlos."
+"?Qu? es malware?;Es un software malicioso que da?a o compromete sistemas."
+"?Qu? es un firewall?;Es un sistema que controla el tr?fico de red y bloquea accesos no autorizados."
+"?Qu? es un antivirus?;Es un software que detecta y elimina programas maliciosos."
+"?Qu? es la autenticaci?n multifactor?;Es un m?todo de seguridad que requiere dos o m?s formas de verificaci?n."
+"?Qu? es una VPN?;Es una conexi?n cifrada que protege la comunicaci?n entre el usuario y la red."
+"?Qu? es la ingenier?a social?;Es una t?cnica para manipular personas y obtener informaci?n confidencial."
+"?Qu? es un ataque DDoS?;Es un ataque que busca saturar un servicio para dejarlo fuera de funcionamiento."
+"?Debo bloquear mi computadora al alejarme?;S?. Siempre debes bloquear la pantalla cuando no est?s utilizando el equipo."
+"?Puedo usar mi correo personal para enviar informaci?n confidencial?;No. La informaci?n confidencial solo debe enviarse por canales autorizados."
